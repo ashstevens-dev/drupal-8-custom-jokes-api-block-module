@@ -1,0 +1,7 @@
+name: Jokes API
+type: module
+description: Define a custom Jokes API block.
+core: 8.x
+package: Custom
+dependencies:
+  - block
