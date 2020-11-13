@@ -1,5 +1,5 @@
 # drupal-8-custom-jokes-api-block-module
-Drupal 8 Custom Module which creates a block which pulls in and displays data from the Jokes API. The block allows you to control how many jokes you would like to display.
+Drupal 8 Custom Module which creates a block that pulls in and displays data from the Jokes API. The block allows you to control how many jokes you would like to display.
 
 ## Installation
 Create a ``custom`` directory in the ``modules`` directory for your Drupal 8 website if you don't have one already. Place this jokes_api directory inside. Enable the module like you would any other module (it will show under Custom on the modules page).
