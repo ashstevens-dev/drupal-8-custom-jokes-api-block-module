@@ -8,4 +8,4 @@ Create a ``custom`` directory in the ``modules`` directory for your Drupal 8 web
 Place the block in the region you'd like it to show - it will be called ``Jokes API block`` in the list. In the Output Limit field, type in how many jokes you would like to display in the block.
 
 ## :sparkles: Moving on
-This module is the simplest example of showing how you can create a simple custom module in Drupal 8 and how you can integrate an API's fetched data inside of a block. It can be easily expanded on and modified for other applications.
+This is an example to show how you can create a simple custom module in Drupal 8 and how you can integrate an API's fetched data inside of a block. It can be easily expanded on and modified for other applications.
